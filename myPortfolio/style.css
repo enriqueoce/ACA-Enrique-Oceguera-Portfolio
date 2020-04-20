@@ -44,7 +44,7 @@ body {
  
   .has-border {
     border-radius: 25px;
-    border: 2px solid #0795C3;
+    border: 5px dotted red;
     background: none;
     padding: 20px;
   }
